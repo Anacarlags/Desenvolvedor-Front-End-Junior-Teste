@@ -1,0 +1,78 @@
+@media only screen and (max-width: 700px){
+    
+    .container-1{
+      min-width: 50%;
+      height: 50%;
+      padding:50px ;
+      
+    }
+      
+    .montanha{
+        position: absolute;
+        top: 70px;
+        left: 130px;
+        font-size: 15px;
+    }
+    .container-2{
+        width: 100%;
+        margin: 10px;
+        padding: 30px;
+    }
+    .bloco-1,
+   .bloco-2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+
+    .container-2,
+    .bloco1,
+    .bloco2,
+    img{
+       
+        padding-right: 10px;
+        padding-left:  10px;   
+    }
+    
+    .titulo2,
+    h1{
+       font-size: 25px;
+    }
+    .titulo2,
+    h5{
+        font-size: 8px;
+    }
+
+    figcaption{
+    
+        top: 40px;
+        left: 35px;
+        font-size: 20px;
+    
+    }
+
+    button{
+       
+        font-size: 8px;
+        text-align: center;
+        text-decoration: none;
+      
+        top: 60px;
+        left: 80px;
+    
+        padding: 10px;
+        margin: 30px;
+        width: 70px;
+        cursor: pointer;
+        position: relative;;
+        
+    }
+
+}
+
+
+
+
+
+
+
+
