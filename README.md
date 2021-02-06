@@ -1,4 +1,4 @@
-# Teste Layout CodeBy
+# Teste Layout Empresa C
 Desenvolver o Front-End de um layout usando Flex-Box CSS e suas propriedades.
 
 ## Requisitos mínimos:
